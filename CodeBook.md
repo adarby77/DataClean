@@ -1,6 +1,6 @@
 #### CODEBOOK
 
-This file is the code book associated with the dataset produced by the run_Analysyis() script.
+This file is the code book associated with the dataset produced by the run_Analysis() script.
 
 For full details of the UCI dataset see the "features_info.txt" file supplied with the dataset and the documentation at the web location 
 
