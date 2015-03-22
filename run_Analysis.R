@@ -149,5 +149,5 @@ run_Analysis <- function(nrows = -1, outfile="av_output.txt", write_combine=NULL
 	av <- create_averages_dataset(dcom)
 
 # Write the data to the output file
-	write.table(av, file = outfile)
+	write.table(av, file = outfile, row.name=FALSE)
 }
