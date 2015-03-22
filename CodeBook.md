@@ -130,9 +130,7 @@ Column:  51 Field:  fBodyGyro_std_Z UCI field:  fBodyGyro-std()-Z
 
 ####UNITS
 
-Accelerometer measurements - indicated the "Acc" in the field name - are in units of metres/sec^2.  
-
-The gyroscope measurements  - indicated by "Gyro" in the field name - are in units of radians/sec.
+Accelerometer measurements - indicated the "Acc" in the field name - are in units of metres/sec^2.  The gyroscope measurements  - indicated by "Gyro" in the field name - are in units of radians/sec.
 
 
 
