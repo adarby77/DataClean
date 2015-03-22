@@ -27,7 +27,7 @@ Column 2:  Activity - Factor - maps the value for each measurement in the "y_*.t
 
 Column 3: Counts - Integer - This is the number of measurements of the for the Activity as identified in column 2 for the Subject identified in column 1 
 
-Columns 4-51:  
+Columns 4-51: Average of accelerometer/gyroscope measurement for each Subject/Activity pair.  Table 1 shows the content of each column and the mapping to the original UCI data field.  The units for all measurements shown below the table.  
 
 #####TABLE 1
 
