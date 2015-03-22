@@ -43,7 +43,7 @@ create_averages_dataset <- function(ds) {
 	# Generate the count of observations of each Subject/Activity Pair
 
 	nav <- names(av)
-	av <- ddply(av, c(.(Subject), .(Activity)), nrow)
+	av <- ddply(ds, c(.(Subject), .(Activity)), nrow)
 
 	nav <- c(nav, "Count")
 	names(av) <- nav
